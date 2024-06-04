@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "patch-package": "^8.0.0",
-    "react-native-country-codes-picker": "2.3.4"
+    "react-native-country-codes-picker": "https://github.com/arakovskis/react-native-country-codes-picker.git"
   },
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.61.0"
