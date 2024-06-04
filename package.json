@@ -44,6 +44,7 @@
     "react-native": "*"
   },
   "dependencies": {
+    "patch-package": "^8.0.0",
     "react-native-country-codes-picker": "2.3.4"
   },
   "devDependencies": {
